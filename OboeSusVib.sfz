@@ -202,6 +202,7 @@ volume=4
 
 <region>
 sample=Oboe_Vib_F5_v3_Main.wav
+tune=0
 lokey=88
 hikey=89
 pitch_keycenter=89

@@ -1,0 +1,45 @@
+             VSCO 2: CE Official sfz Instruments
+                       - Build 1.1.0 -
+                     October 23rd,  2016
+
+
+              === Installation Instructions ===
+
+Make sure you download the audio files here-
+https://s3.amazonaws.com/VersilianStudios/VSCO2_CE.rar
+
+(if you installed before October 23rd, 2016, then you will need to 
+redownload the audio files)
+
+Place the sfz files inside the VSCO2_CE folder, on the same 
+level as the readme.
+
+Drag sfz files into your sfz-loading sampler of choice and enjoy!
+
+For the latest builds, check the GitHub page-
+https://github.com/sgossner/VSCO-2-CE/tree/SFZ
+
+
+
+                 === Questions? Comments? ===
+
+Climb to the nearest hill with a baby goat and knife. Sacrifice 
+the goat while asking your questions. Answers should be in the 
+entrails. Also works on tofu.
+
+[[for real, drop us a line at contact-at-versilstudios-dot-net.]]
+
+    psst... thanks for choosing freeware over crack-ware!
+
+
+                  === Developers Notice ===
+
+Do you like making sample libraries? Do you want to win $9,001?
+
+Well, you can certainly do the first thing!  Drop by our GitHub to
+get access to the latest resources and builds of the VSCO: CE pro-
+ject. Make a branch or fork and go off however you'd like. Impress
+your friends and listeners with a library all your own,  or  share
+your work with the world  (hey,  we'll even host it for you if you
+want).
+

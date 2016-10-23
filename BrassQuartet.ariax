@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <AriaSave version="1620">
-    <Settings quality="1" streaming="32" maxStreamAllocMB="512" MIDIOutMode="1" automationSlot="0" sc="2" scala="01 - equal.scl" scalaCenter="60" globalTuning="0.000000" />
+    <Settings quality="1" streaming="32" maxStreamAllocMB="512" MIDIOutMode="1" automationSlot="0" sc="1" scala="01 - equal.scl" scalaCenter="60" globalTuning="0.000000" />
     <Slot id="0" name="C:/Users/Samulis/Desktop/Projects/virtual_instruments/miscSamples/1952 Pack/TrumpetSus.sfz" bankId="-1" channel="-1" poly="32" tuning="0.000000" pb_range="-1.000000" transpose="0" mute="0">
         <Aux id="0" value="0.475000" />
         <Main id="0" value="1.000000" />

@@ -9,10 +9,10 @@ default_path=Percussion\Timpani\
 
 
 
-ampeg_attack=0.001
+ampeg_attack=0.005
 
 
-ampeg_release=8
+ampeg_release=12
 
 
 ampeg_dynamic=1
@@ -30,7 +30,10 @@ volume=0
 
 
 
-lorand=0.0 hirand=0.5
+seq_length=2
+
+
+seq_position=1
 
 
 group_label=gr_1
@@ -46,8 +49,8 @@ lokey=36
 hikey=43
 pitch_keycenter=42
 lovel=0
-hivel=62
-volume=38
+hivel=80
+volume=27
 
 
 <region>
@@ -56,8 +59,8 @@ lokey=44
 hikey=47
 pitch_keycenter=46
 lovel=0
-hivel=62
-volume=3
+hivel=60
+volume=23
 
 
 <region>
@@ -66,8 +69,8 @@ lokey=48
 hikey=50
 pitch_keycenter=49
 lovel=0
-hivel=62
-volume=32
+hivel=60
+volume=23
 
 
 <region>
@@ -76,8 +79,8 @@ lokey=51
 hikey=52
 pitch_keycenter=52
 lovel=0
-hivel=62
-volume=32
+hivel=60
+volume=23
 
 
 <region>
@@ -86,8 +89,8 @@ lokey=53
 hikey=60
 pitch_keycenter=54
 lovel=0
-hivel=62
-volume=32
+hivel=60
+volume=23
 
 
 <region>
@@ -95,9 +98,9 @@ sample=Timpani1_Hit_v3_rr1_Sum.wav
 lokey=36
 hikey=43
 pitch_keycenter=42
-lovel=63
+lovel=81
 hivel=127
-volume=19
+volume=17
 
 
 <region>
@@ -105,9 +108,9 @@ sample=Timpani2_Hit_v3_rr1_Sum.wav
 lokey=44
 hikey=47
 pitch_keycenter=46
-lovel=63
-hivel=127
-volume=14
+lovel=61
+hivel=110
+volume=10
 
 
 <region>
@@ -115,9 +118,9 @@ sample=Timpani3_Hit_v3_rr1_Sum.wav
 lokey=48
 hikey=50
 pitch_keycenter=49
-lovel=63
-hivel=127
-volume=14
+lovel=61
+hivel=110
+volume=10
 
 
 <region>
@@ -125,9 +128,9 @@ sample=Timpani4_Hit_v3_rr1_Sum.wav
 lokey=51
 hikey=52
 pitch_keycenter=52
-lovel=63
-hivel=127
-volume=14
+lovel=61
+hivel=110
+volume=10
 
 
 <region>
@@ -135,9 +138,49 @@ sample=Timpani5_Hit_v3_rr1_Sum.wav
 lokey=53
 hikey=60
 pitch_keycenter=54
-lovel=63
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Timpani2_Hit_v4_rr1_Sum.wav
+lokey=44
+hikey=47
+pitch_keycenter=46
+lovel=111
 hivel=127
-volume=14
+volume=2
+
+
+<region>
+sample=Timpani3_Hit_v4_rr1_Sum.wav
+lokey=48
+hikey=50
+pitch_keycenter=49
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Timpani4_Hit_v4_rr1_Sum.wav
+lokey=51
+hikey=52
+pitch_keycenter=52
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Timpani5_Hit_v4_rr1_Sum.wav
+lokey=53
+hikey=60
+pitch_keycenter=54
+lovel=111
+hivel=127
+volume=2
 
 
 <group> //Begin Group 2
@@ -145,7 +188,10 @@ volume=14
 
 
 
-lorand=0.5 hirand=1.0
+seq_length=2
+
+
+seq_position=2
 
 
 group_label=gr_2
@@ -161,8 +207,8 @@ lokey=36
 hikey=43
 pitch_keycenter=42
 lovel=0
-hivel=62
-volume=38
+hivel=80
+volume=27
 
 
 <region>
@@ -171,8 +217,8 @@ lokey=44
 hikey=47
 pitch_keycenter=46
 lovel=0
-hivel=62
-volume=32
+hivel=60
+volume=23
 
 
 <region>
@@ -181,8 +227,8 @@ lokey=48
 hikey=50
 pitch_keycenter=49
 lovel=0
-hivel=62
-volume=32
+hivel=60
+volume=23
 
 
 <region>
@@ -191,8 +237,8 @@ lokey=51
 hikey=52
 pitch_keycenter=52
 lovel=0
-hivel=62
-volume=32
+hivel=60
+volume=23
 
 
 <region>
@@ -201,18 +247,18 @@ lokey=53
 hikey=60
 pitch_keycenter=54
 lovel=0
-hivel=62
-volume=32
+hivel=60
+volume=23
 
 
 <region>
 sample=Timpani1_Hit_v3_rr2_Sum.wav
-lokey=42
+lokey=36
 hikey=43
 pitch_keycenter=42
-lovel=63
+lovel=81
 hivel=127
-volume=19
+volume=12
 
 
 <region>
@@ -220,9 +266,9 @@ sample=Timpani2_Hit_v3_rr2_Sum.wav
 lokey=44
 hikey=47
 pitch_keycenter=46
-lovel=63
-hivel=127
-volume=14
+lovel=61
+hivel=110
+volume=10
 
 
 <region>
@@ -230,9 +276,9 @@ sample=Timpani3_Hit_v3_rr2_Sum.wav
 lokey=48
 hikey=50
 pitch_keycenter=49
-lovel=63
-hivel=127
-volume=14
+lovel=61
+hivel=110
+volume=10
 
 
 <region>
@@ -240,9 +286,9 @@ sample=Timpani4_Hit_v3_rr2_Sum.wav
 lokey=51
 hikey=52
 pitch_keycenter=52
-lovel=63
-hivel=127
-volume=14
+lovel=61
+hivel=110
+volume=10
 
 
 <region>
@@ -250,8 +296,48 @@ sample=Timpani5_Hit_v3_rr2_Sum.wav
 lokey=53
 hikey=60
 pitch_keycenter=54
-lovel=63
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Timpani2_Hit_v4_rr2_Sum.wav
+lokey=44
+hikey=47
+pitch_keycenter=46
+lovel=111
 hivel=127
-volume=14
+volume=2
+
+
+<region>
+sample=Timpani3_Hit_v4_rr2_Sum.wav
+lokey=48
+hikey=50
+pitch_keycenter=49
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Timpani4_Hit_v4_rr2_Sum.wav
+lokey=51
+hikey=52
+pitch_keycenter=52
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Timpani5_Hit_v4_rr2_Sum.wav
+lokey=53
+hikey=60
+pitch_keycenter=54
+lovel=111
+hivel=127
+volume=2
 
 

@@ -72,6 +72,7 @@ volume=21
 
 <region>
 sample=LLVln_ArcoVib_C4_p.wav
+tune=-20
 lokey=59
 hikey=61
 pitch_keycenter=60

@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<AriaSave version="1620">
+    <Settings quality="1" streaming="32" maxStreamAllocMB="512" MIDIOutMode="1" automationSlot="0" sc="5" scala="01 - equal.scl" scalaCenter="60" globalTuning="0.000000" />
+    <Slot id="0" name="C:/Users/Samulis/Desktop/Projects/virtual_instruments/miscSamples/1952 Pack/FluteSusVib.sfz" bankId="-1" channel="-1" poly="32" tuning="0.000000" pb_range="-1.000000" transpose="0" mute="0">
+        <Aux id="0" value="0.590000" />
+        <Main id="0" value="1.000000" />
+        <Main id="1" value="0.000000" />
+        <Main id="2" value="0.000000" />
+        <Main id="3" value="0.000000" />
+        <Main id="4" value="0.000000" />
+        <Main id="5" value="0.000000" />
+        <Main id="6" value="0.000000" />
+        <Main id="7" value="0.000000" />
+        <Main id="8" value="0.000000" />
+        <Main id="9" value="0.000000" />
+        <Main id="10" value="0.000000" />
+        <Main id="11" value="0.000000" />
+        <Main id="12" value="0.000000" />
+        <Main id="13" value="0.000000" />
+        <Main id="14" value="0.000000" />
+        <Main id="15" value="0.000000" />
+        <Param id="10" value="0.428937" />
+        <Param id="142" value="120.000000" />
+    </Slot>
+    <Slot id="1" name="C:/Users/Samulis/Desktop/Projects/virtual_instruments/miscSamples/1952 Pack/OboeSusVib.sfz" bankId="-1" channel="-1" poly="32" tuning="0.000000" pb_range="-1.000000" transpose="0" mute="0">
+        <Aux id="0" value="0.595000" />
+        <Main id="0" value="1.000000" />
+        <Main id="1" value="0.000000" />
+        <Main id="2" value="0.000000" />
+        <Main id="3" value="0.000000" />
+        <Main id="4" value="0.000000" />
+        <Main id="5" value="0.000000" />
+        <Main id="6" value="0.000000" />
+        <Main id="7" value="0.000000" />
+        <Main id="8" value="0.000000" />
+        <Main id="9" value="0.000000" />
+        <Main id="10" value="0.000000" />
+        <Main id="11" value="0.000000" />
+        <Main id="12" value="0.000000" />
+        <Main id="13" value="0.000000" />
+        <Main id="14" value="0.000000" />
+        <Main id="15" value="0.000000" />
+        <Param id="10" value="0.553937" />
+        <Param id="142" value="120.000000" />
+    </Slot>
+    <Slot id="2" name="C:/Users/Samulis/Desktop/Projects/virtual_instruments/miscSamples/1952 Pack/ClarinetSus.sfz" bankId="-1" channel="-1" poly="32" tuning="0.000000" pb_range="-1.000000" transpose="0" mute="0">
+        <Aux id="0" value="0.610000" />
+        <Main id="0" value="1.000000" />
+        <Main id="1" value="0.000000" />
+        <Main id="2" value="0.000000" />
+        <Main id="3" value="0.000000" />
+        <Main id="4" value="0.000000" />
+        <Main id="5" value="0.000000" />
+        <Main id="6" value="0.000000" />
+        <Main id="7" value="0.000000" />
+        <Main id="8" value="0.000000" />
+        <Main id="9" value="0.000000" />
+        <Main id="10" value="0.000000" />
+        <Main id="11" value="0.000000" />
+        <Main id="12" value="0.000000" />
+        <Main id="13" value="0.000000" />
+        <Main id="14" value="0.000000" />
+        <Main id="15" value="0.000000" />
+        <Param id="10" value="0.418937" />
+        <Param id="142" value="120.000000" />
+    </Slot>
+    <Slot id="3" name="C:/Users/Samulis/Desktop/Projects/virtual_instruments/miscSamples/1952 Pack/BassoonVib.sfz" bankId="-1" channel="-1" poly="32" tuning="0.000000" pb_range="-1.000000" transpose="0" mute="0">
+        <Aux id="0" value="0.575000" />
+        <Main id="0" value="1.000000" />
+        <Main id="1" value="0.000000" />
+        <Main id="2" value="0.000000" />
+        <Main id="3" value="0.000000" />
+        <Main id="4" value="0.000000" />
+        <Main id="5" value="0.000000" />
+        <Main id="6" value="0.000000" />
+        <Main id="7" value="0.000000" />
+        <Main id="8" value="0.000000" />
+        <Main id="9" value="0.000000" />
+        <Main id="10" value="0.000000" />
+        <Main id="11" value="0.000000" />
+        <Main id="12" value="0.000000" />
+        <Main id="13" value="0.000000" />
+        <Main id="14" value="0.000000" />
+        <Main id="15" value="0.000000" />
+        <Param id="10" value="0.593937" />
+        <Param id="142" value="120.000000" />
+    </Slot>
+    <Slot id="4" name="C:/Users/Samulis/Desktop/Projects/virtual_instruments/miscSamples/1952 Pack/PiccoloSus.sfz" bankId="-1" channel="-1" poly="32" tuning="0.000000" pb_range="-1.000000" transpose="0" mute="0">
+        <Aux id="0" value="0.635000" />
+        <Main id="0" value="1.000000" />
+        <Main id="1" value="0.000000" />
+        <Main id="2" value="0.000000" />
+        <Main id="3" value="0.000000" />
+        <Main id="4" value="0.000000" />
+        <Main id="5" value="0.000000" />
+        <Main id="6" value="0.000000" />
+        <Main id="7" value="0.000000" />
+        <Main id="8" value="0.000000" />
+        <Main id="9" value="0.000000" />
+        <Main id="10" value="0.000000" />
+        <Main id="11" value="0.000000" />
+        <Main id="12" value="0.000000" />
+        <Main id="13" value="0.000000" />
+        <Main id="14" value="0.000000" />
+        <Main id="15" value="0.000000" />
+        <Param id="10" value="0.423937" />
+        <Param id="142" value="120.000000" />
+    </Slot>
+    <EffectSlot id="0" name="Conv+Amb" bankId="1012">
+        <Param id="18" value="1.000000" />
+        <Param id="1303" value="0.120000" />
+        <Param id="2001" value="0.000000" />
+        <Target name="com.Garritan.Aria.Convolver.Room">
+            <CustomData type="61715" size="38" version="0" product="1012" adata="Data/impulses/Film Score Space TS.pwav" />
+        </Target>
+        <Target name="com.Plogue.Aria.ImageHolder.Impulse">
+            <CustomData type="61715" size="34" version="0" product="1012" adata="Data/impulses/Film Score Space.png" />
+        </Target>
+    </EffectSlot>
+    <GUI id="0" activeISlot="0" activeESlot="0" selectedTab="2">
+        <PresetMenu eslot="0" target="?com.Garritan.Impulse.Spaces" text="Film Score Space" path="C:/Program Files/Garritan/ARIA Player/Presets/com.Garritan.Impulse.Spaces/Film Score Space.ariap" />
+    </GUI>
+</AriaSave>
