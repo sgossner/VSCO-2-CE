@@ -19,7 +19,29 @@ Drag sfz files into your sfz-loading sampler of choice and enjoy!
 For the latest builds, check the GitHub page-
 https://github.com/sgossner/VSCO-2-CE/tree/SFZ
 
+                  === USING .ARIAX FILES ===
+                  
+If you would like to make use of the default .ariax ensemble files,
+you will need to open the .ariax files individually (in a text editor-
+do this by double-clicking the file, then if it prompts you to search
+for an application to open it, select "Select a program from a list of
+installed programs". Now look for Notepad or for your preferred text
+editor, such as Notepad++ (bonus points if it has XML filters).
 
+Once inside, you will see a part with the text "<Slot " starting on
+row 4. Further in the row, you will see a 'name="C:/Users" etc.
+In the explorer window you used to open the file from, copy the path
+by selecting it, pressing ctrl + C, and then go back into the text
+editor. Replace from where it says "C:/Users" all the way through
+"1952 Pack/" by selecting that region of text and then pasting the
+new directory by pressing ctrl + V. Add a '\' or '/' right before
+the start of the actual file name (i.e. right at the end of the
+text you pasted).
+
+Repeat this operation for EVERY <Slot> in EVERY .ariax file you
+want to use. Unfortunately this is the only possible workaround
+at this time due to some very annoying choices by Plogue with
+regard to sharing presets from unofficial libraries...
 
                  === Questions? Comments? ===
 
