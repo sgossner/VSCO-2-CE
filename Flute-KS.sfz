@@ -206,7 +206,7 @@ volume=4
 
 
 <control>
-default_path=\Woodwinds\Flute\susvib\
+default_path=Woodwinds\Flute\susvib\
 
 <group> //Begin Sustain Vibrato Group
 
