@@ -107,7 +107,7 @@ hikey=96
 pitch_keycenter=96
 lovel=0
 hivel=127
-volume=8
+volume=2
 
 
 <region>
@@ -147,7 +147,7 @@ hikey=90
 pitch_keycenter=88
 lovel=0
 hivel=62
-volume=12
+volume=4
 
 
 <region>
