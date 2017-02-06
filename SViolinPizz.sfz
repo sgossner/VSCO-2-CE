@@ -338,7 +338,7 @@ volume=21
 <region>
 sample=LLVln_Pizz_E5_p_RR2.wav
 lokey=76
-hikey=76
+hikey=77
 pitch_keycenter=76
 lovel=0
 hivel=62
