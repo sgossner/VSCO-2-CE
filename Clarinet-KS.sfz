@@ -457,7 +457,7 @@ volume=16
 <region>
 sample=DCClar_stac_F5_v1_rr1_sum.wav
 lokey=88
-hikey=89
+hikey=90
 pitch_keycenter=89
 lovel=0
 hivel=41
@@ -567,7 +567,7 @@ volume=8
 <region>
 sample=DCClar_stac_F5_v2_rr1_sum.wav
 lokey=88
-hikey=89
+hikey=90
 pitch_keycenter=89
 lovel=42
 hivel=83
@@ -677,7 +677,7 @@ volume=2
 <region>
 sample=DCClar_stac_F5_v3_rr1_sum.wav
 lokey=88
-hikey=89
+hikey=90
 pitch_keycenter=89
 lovel=84
 hivel=127
@@ -792,7 +792,7 @@ volume=16
 <region>
 sample=DCClar_stac_F5_v1_rr2_sum.wav
 lokey=88
-hikey=89
+hikey=90
 pitch_keycenter=89
 lovel=0
 hivel=41
@@ -902,7 +902,7 @@ volume=8
 <region>
 sample=DCClar_stac_F5_v2_rr2_sum.wav
 lokey=88
-hikey=89
+hikey=90
 pitch_keycenter=89
 lovel=42
 hivel=83
@@ -1012,7 +1012,7 @@ volume=2
 <region>
 sample=DCClar_stac_F5_v3_rr2_sum.wav
 lokey=88
-hikey=89
+hikey=90
 pitch_keycenter=89
 lovel=84
 hivel=127

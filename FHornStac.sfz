@@ -217,7 +217,7 @@ hikey=75
 pitch_keycenter=74
 lovel=42
 hivel=83
-volume=12
+volume=0
 
 
 <region>
@@ -237,7 +237,7 @@ hikey=77
 pitch_keycenter=77
 lovel=42
 hivel=83
-volume=12
+volume=7
 
 
 <region>
@@ -297,7 +297,7 @@ hikey=75
 pitch_keycenter=74
 lovel=84
 hivel=127
-volume=4
+volume=0
 
 
 <region>
@@ -317,7 +317,7 @@ hikey=77
 pitch_keycenter=77
 lovel=84
 hivel=127
-volume=4
+volume=0
 
 
 <group> //Begin Group 2
@@ -432,7 +432,7 @@ hikey=77
 pitch_keycenter=77
 lovel=0
 hivel=62
-volume=18
+volume=0
 
 
 <region>
@@ -532,7 +532,7 @@ hikey=77
 pitch_keycenter=77
 lovel=63
 hivel=127
-volume=6
+volume=4
 
 
 <region>
