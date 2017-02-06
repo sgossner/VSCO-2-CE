@@ -116,7 +116,7 @@ lokey=38
 hikey=41
 pitch_keycenter=40
 lovel=42
-hivel=83
+hivel=62
 volume=16
 
 
@@ -245,7 +245,7 @@ sample=susvib_E1_v3_1.wav
 lokey=38
 hikey=41
 pitch_keycenter=40
-lovel=84
+lovel=63
 hivel=127
 volume=3
 
