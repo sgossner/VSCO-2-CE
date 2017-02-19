@@ -1,20 +1,18 @@
              VSCO 2: CE Official sfz Instruments
-                       - Build 1.1.0 -
-                     October 23rd,  2016
+                       - Build 1.1.1 -
+                    February 18th,  2017
 
 
               === Installation Instructions ===
 
-Make sure you download the audio files here-
-https://s3.amazonaws.com/VersilianStudios/VSCO2_CE.rar
-
-(if you installed before October 23rd, 2016, then you will need to 
-redownload the audio files)
-
-Place the sfz files inside the VSCO2_CE folder, on the same 
-level as the readme.
+Download and extract the files from Github and place wherever you want.
 
 Drag sfz files into your sfz-loading sampler of choice and enjoy!
+
+Here are a few suggestions:
+- Sforzando
+- ARIA
+- LinuxSampler
 
 For the latest builds, check the GitHub page-
 https://github.com/sgossner/VSCO-2-CE/tree/SFZ
