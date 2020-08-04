@@ -50,9 +50,17 @@ UPDATE 1.1.0
 Bells, Old Trombone, Piccolo, and Upright Nr. 1
 and relative instruments in sfz format.
 
+<<<<<<< HEAD
 - Added samples from Miscellania I, II, and from
 VSCO 1's percussion set. These are available on
 a strictly "as-is" basis, and sfz instruments will
+=======
+- Fixed tuning errors in SVln Sus and Clarinet.
+
+- Added samples from Miscellania I, II, and from
+VSCO 1's percussion set. These are available on
+a strictly "as-is" basis, and instruments will
+>>>>>>> 6dd651d55dde97fd4028699be9d4481f26917891
 not be derived from these.
 
 - Enhanced timpani with additional velocity layer.

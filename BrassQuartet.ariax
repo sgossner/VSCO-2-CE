@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<AriaSave version="1620">
+    <Settings quality="1" streaming="32" maxStreamAllocMB="512" MIDIOutMode="1" automationSlot="0" sc="1" scala="01 - equal.scl" scalaCenter="60" globalTuning="0.000000" />
+    <Slot id="0" name="C:/Users/Samulis/Desktop/Projects/virtual_instruments/miscSamples/1952 Pack/TrumpetSus.sfz" bankId="-1" channel="-1" poly="32" tuning="0.000000" pb_range="-1.000000" transpose="0" mute="0">
+        <Aux id="0" value="0.475000" />
+        <Main id="0" value="1.000000" />
+        <Main id="1" value="0.000000" />
+        <Main id="2" value="0.000000" />
+        <Main id="3" value="0.000000" />
+        <Main id="4" value="0.000000" />
+        <Main id="5" value="0.000000" />
+        <Main id="6" value="0.000000" />
+        <Main id="7" value="0.000000" />
+        <Main id="8" value="0.000000" />
+        <Main id="9" value="0.000000" />
+        <Main id="10" value="0.000000" />
+        <Main id="11" value="0.000000" />
+        <Main id="12" value="0.000000" />
+        <Main id="13" value="0.000000" />
+        <Main id="14" value="0.000000" />
+        <Main id="15" value="0.000000" />
+        <Param id="10" value="0.483937" />
+        <Param id="142" value="120.000000" />
+    </Slot>
+    <Slot id="1" name="C:/Users/Samulis/Desktop/Projects/virtual_instruments/miscSamples/1952 Pack/FHornSus.sfz" bankId="-1" channel="-1" poly="32" tuning="0.000000" pb_range="-1.000000" transpose="0" mute="0">
+        <Aux id="0" value="0.560000" />
+        <Main id="0" value="1.000000" />
+        <Main id="1" value="0.000000" />
+        <Main id="2" value="0.000000" />
+        <Main id="3" value="0.000000" />
+        <Main id="4" value="0.000000" />
+        <Main id="5" value="0.000000" />
+        <Main id="6" value="0.000000" />
+        <Main id="7" value="0.000000" />
+        <Main id="8" value="0.000000" />
+        <Main id="9" value="0.000000" />
+        <Main id="10" value="0.000000" />
+        <Main id="11" value="0.000000" />
+        <Main id="12" value="0.000000" />
+        <Main id="13" value="0.000000" />
+        <Main id="14" value="0.000000" />
+        <Main id="15" value="0.000000" />
+        <Param id="10" value="0.388937" />
+        <Param id="142" value="120.000000" />
+    </Slot>
+    <Slot id="2" name="C:/Users/Samulis/Desktop/Projects/virtual_instruments/miscSamples/1952 Pack/TromboneSus.sfz" bankId="-1" channel="-1" poly="32" tuning="0.000000" pb_range="-1.000000" transpose="0" mute="0">
+        <Aux id="0" value="0.490000" />
+        <Main id="0" value="1.000000" />
+        <Main id="1" value="0.000000" />
+        <Main id="2" value="0.000000" />
+        <Main id="3" value="0.000000" />
+        <Main id="4" value="0.000000" />
+        <Main id="5" value="0.000000" />
+        <Main id="6" value="0.000000" />
+        <Main id="7" value="0.000000" />
+        <Main id="8" value="0.000000" />
+        <Main id="9" value="0.000000" />
+        <Main id="10" value="0.000000" />
+        <Main id="11" value="0.000000" />
+        <Main id="12" value="0.000000" />
+        <Main id="13" value="0.000000" />
+        <Main id="14" value="0.000000" />
+        <Main id="15" value="0.000000" />
+        <Param id="10" value="0.633937" />
+        <Param id="142" value="120.000000" />
+    </Slot>
+    <Slot id="3" name="C:/Users/Samulis/Desktop/Projects/virtual_instruments/miscSamples/1952 Pack/TubaSus.sfz" bankId="-1" channel="-1" poly="32" tuning="0.000000" pb_range="-1.000000" transpose="0" mute="0">
+        <Aux id="0" value="0.530000" />
+        <Main id="0" value="1.000000" />
+        <Main id="1" value="0.000000" />
+        <Main id="2" value="0.000000" />
+        <Main id="3" value="0.000000" />
+        <Main id="4" value="0.000000" />
+        <Main id="5" value="0.000000" />
+        <Main id="6" value="0.000000" />
+        <Main id="7" value="0.000000" />
+        <Main id="8" value="0.000000" />
+        <Main id="9" value="0.000000" />
+        <Main id="10" value="0.000000" />
+        <Main id="11" value="0.000000" />
+        <Main id="12" value="0.000000" />
+        <Main id="13" value="0.000000" />
+        <Main id="14" value="0.000000" />
+        <Main id="15" value="0.000000" />
+        <Param id="10" value="0.723937" />
+        <Param id="142" value="120.000000" />
+    </Slot>
+    <EffectSlot id="0" name="Conv+Amb" bankId="1012">
+        <Param id="18" value="1.000000" />
+        <Param id="1301" value="0.080000" />
+        <Param id="2001" value="0.000000" />
+        <Target name="com.Garritan.Aria.Convolver.Room">
+            <CustomData type="61715" size="56" version="0" product="1012" adata="Data/impulses/Traditional Symphonic Concert Hall TS.pwav" />
+        </Target>
+        <Target name="com.Plogue.Aria.ImageHolder.Impulse">
+            <CustomData type="61715" size="52" version="0" product="1012" adata="Data/impulses/Traditional Symphonic Concert Hall.png" />
+        </Target>
+    </EffectSlot>
+    <GUI id="0" activeISlot="0" activeESlot="0" selectedTab="2">
+        <PresetMenu eslot="0" target="?com.Garritan.Impulse.Spaces" text="Traditional Symphonic Concert Hall" path="C:/Program Files/Garritan/ARIA Player/Presets/com.Garritan.Impulse.Spaces/Traditional Symphonic Concert Hall.ariap" />
+    </GUI>
+</AriaSave>

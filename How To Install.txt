@@ -1,0 +1,65 @@
+             VSCO 2: CE Official sfz Instruments
+                       - Build 1.1.1 -
+                    February 18th,  2017
+
+
+              === Installation Instructions ===
+
+Download and extract the files from Github and place wherever you want.
+
+Drag sfz files into your sfz-loading sampler of choice and enjoy!
+
+Here are a few suggestions:
+- Sforzando
+- ARIA
+- LinuxSampler
+
+For the latest builds, check the GitHub page-
+https://github.com/sgossner/VSCO-2-CE/tree/SFZ
+
+                  === USING .ARIAX FILES ===
+                  
+If you would like to make use of the default .ariax ensemble files,
+you will need to open the .ariax files individually (in a text editor-
+do this by double-clicking the file, then if it prompts you to search
+for an application to open it, select "Select a program from a list of
+installed programs". Now look for Notepad or for your preferred text
+editor, such as Notepad++ (bonus points if it has XML filters).
+
+Once inside, you will see a part with the text "<Slot " starting on
+row 4. Further in the row, you will see a 'name="C:/Users" etc.
+In the explorer window you used to open the file from, copy the path
+by selecting it, pressing ctrl + C, and then go back into the text
+editor. Replace from where it says "C:/Users" all the way through
+"1952 Pack/" by selecting that region of text and then pasting the
+new directory by pressing ctrl + V. Add a '\' or '/' right before
+the start of the actual file name (i.e. right at the end of the
+text you pasted).
+
+Repeat this operation for EVERY <Slot> in EVERY .ariax file you
+want to use. Unfortunately this is the only possible workaround
+at this time due to some very annoying choices by Plogue with
+regard to sharing presets from unofficial libraries...
+
+                 === Questions? Comments? ===
+
+Climb to the nearest hill with a baby goat and knife. Sacrifice 
+the goat while asking your questions. Answers should be in the 
+entrails. Also works on tofu.
+
+[[for real, drop us a line at contact-at-versilstudios-dot-net.]]
+
+    psst... thanks for choosing freeware over crack-ware!
+
+
+                  === Developers Notice ===
+
+Do you like making sample libraries? Do you want to win $9,001?
+
+Well, you can certainly do the first thing!  Drop by our GitHub to
+get access to the latest resources and builds of the VSCO: CE pro-
+ject. Make a branch or fork and go off however you'd like. Impress
+your friends and listeners with a library all your own,  or  share
+your work with the world  (hey,  we'll even host it for you if you
+want).
+
