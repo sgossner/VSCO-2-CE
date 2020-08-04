@@ -39,14 +39,13 @@ o en  https://github.com/sgossner/VSCO-2-CE.git
 
 
 
-Here's an image of a drag racer in action:
 
-![Zip gitgub](https://imgur.com/a/JywuB0M
-)
-
-Move along.
+<img src="https://imgur.com/a/JywuB0M" alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 
+
+# 
 
 ## Usa Ardour( DAW open Source(funciona windows linux y mac) ) y Carla para usar la libreria .sfz
 
@@ -68,10 +67,12 @@ agregue el plugin Carla y en Carla cargue el instrumento sfz
 
 
 
+
 Quick Download of SFZ version 1.1.0:
 https://github.com/sgossner/VSCO-2-CE/releases/tag/1.1.0
 
 
+Download v1.1.0: https://github.com/sgossner/VSCO-2-CE/releases/tag/1.1.0
 
 Recorded by Sam Gossner & Simon Dalzell; Sample Cutting by Elan Hickler/Soundemote
 
