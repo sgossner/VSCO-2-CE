@@ -38,10 +38,11 @@ dado que en la rama master no estan los archivos en https://github.com/MrAndersj
 o en  https://github.com/sgossner/VSCO-2-CE.git
 
 
-
-
-<img src="https://imgur.com/a/JywuB0M" alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+ <div>
+            <figure class="logo">
+                <img src="https://i.imgur.com/0M1edu4.png" alt="Logo de http:">
+            </figure>
+        </div>
 
 
 
