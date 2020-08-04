@@ -68,10 +68,12 @@ agregue el plugin Carla y en Carla cargue el instrumento sfz
 
 
 
+
 Quick Download of SFZ version 1.1.0:
 https://github.com/sgossner/VSCO-2-CE/releases/tag/1.1.0
 
 
+Download v1.1.0: https://github.com/sgossner/VSCO-2-CE/releases/tag/1.1.0
 
 Recorded by Sam Gossner & Simon Dalzell; Sample Cutting by Elan Hickler/Soundemote
 
