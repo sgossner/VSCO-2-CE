@@ -2,6 +2,7 @@
 An open-source orchestral library.
 
 #### soporte en espanol para la comunidad latina de habla hispana  by MrAndersj
+##### recuerda estas herramientas vienen instaladas por default en la distribucion de linux ubuntu studio(ubuntu para artistas)
 
 # Crea música Orquestal de Calidad Profesional con libreria open-source
 
